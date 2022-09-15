@@ -2,8 +2,8 @@
 
 ## Week 1: DDPM paper
 * [Recording](https://www.youtube.com/watch?v=B5gfJF8mOPo)
-* [Slides](Diffusion%20Model%20Study%20Group%20%231.pdf)
+* [Slides](%231%20DDPM%20paper.pdf)
 
 ## Week 2: Score-based generative modeling
 * [Recording](https://youtu.be/iv6K7yo5KgQ)
-* [Slides](Diffusion%20Model%20Study%20Group%20%232.pdf)
+* [Slides](%232%20Score-based%20generative%20modeling.pdf)
