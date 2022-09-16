@@ -2,6 +2,12 @@
 
 This is an ongoing study group occuring the EleutherAI Discord server. You can join the server over [here](https://discord.gg/zBGx3azzUn), then head to the "Diffusion Reading Group" thread under the #multimodal channel.
 
+<!--ts-->
+* [Diffusion Reading Group at EleutherAI](#diffusion-reading-group-at-eleutherai)
+   * [Week 1: DDPM paper](#week-1-ddpm-paper)
+   * [Week 2: Score-based generative modeling](#week-2-score-based-generative-modeling)
+<!--te-->
+
 ## Week 1: DDPM paper
 * [Recording](https://www.youtube.com/watch?v=B5gfJF8mOPo)
 * [Slides](%231%20DDPM%20paper.pdf)
