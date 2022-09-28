@@ -6,7 +6,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * [Diffusion Reading Group at EleutherAI](#diffusion-reading-group-at-eleutherai)
    * [Week 1: DDPM paper](#week-1-ddpm-paper)
    * [Week 2: Score-based generative modeling](#week-2-score-based-generative-modeling)
-   * [List of papers to cover](#list-of-papers-to-cover)
+   * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
 ## Week 1: DDPM paper
