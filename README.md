@@ -6,6 +6,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * [Diffusion Reading Group at EleutherAI](#diffusion-reading-group-at-eleutherai)
    * [Week 1: DDPM paper](#week-1-ddpm-paper)
    * [Week 2: Score-based generative modeling](#week-2-score-based-generative-modeling)
+   * [Week 3: NCSNv2 and Score SDEs])(#week-3-ncsnv2-and-score-sdes)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
@@ -16,6 +17,10 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 ## Week 2: Score-based generative modeling
 * [Recording](https://youtu.be/iv6K7yo5KgQ)
 * [Slides](%232%20Score-based%20generative%20modeling.pdf)
+
+## Week 3: NCSNv2 and Score SDEs
+* [Recording](https://www.youtube.com/watch?v=NwfkNEGjNus)
+* [Slides](%233%20NCSNv2%20and%20Score%20SDE.pdf)
 
 
 ## List of papers to cover:
