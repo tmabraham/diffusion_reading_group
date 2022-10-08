@@ -2,6 +2,8 @@
 
 This is an ongoing study group occuring the EleutherAI Discord server. You can join the server over [here](https://discord.gg/zBGx3azzUn), then head to the "Diffusion Reading Group" thread under the #multimodal channel.
 
+[Here is a playlist](https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM) of the previous session recordings.
+
 <!--ts-->
 * [Diffusion Reading Group at EleutherAI](#diffusion-reading-group-at-eleutherai)
    * [Week 1: DDPM paper](#week-1-ddpm-paper)
@@ -21,6 +23,10 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 ## Week 3: NCSNv2 and Score SDEs
 * [Recording](https://www.youtube.com/watch?v=NwfkNEGjNus)
 * [Slides](%233%20NCSNv2%20and%20Score%20SDE.pdf)
+
+## Week 4: Score SDEs and DDIM
+* [Recording](https://youtu.be/o4dr7tUQryQ)
+* [Slides](%234%20Score%20SDEs%20and%20DDIM.pdf)
 
 
 ## List of papers to cover:
