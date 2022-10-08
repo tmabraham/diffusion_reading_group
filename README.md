@@ -9,6 +9,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 1: DDPM paper](#week-1-ddpm-paper)
    * [Week 2: Score-based generative modeling](#week-2-score-based-generative-modeling)
    * [Week 3: NCSNv2 and Score SDEs](#week-3-ncsnv2-and-score-sdes)
+   * [Week 4: Score SDEs and DDIM](#week-4-score-sdes-and-ddim)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
