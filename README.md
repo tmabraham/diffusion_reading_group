@@ -24,11 +24,12 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 
 
 ## List of papers to cover:
-1. Denoising Diffusion Probabilistic Models
-2. Generative Modeling by Estimating Gradients of the Data Distribution
-3. Improved techniques for training score-based generative models
-4. Score-Based Generative Modeling through Stochastic Differential Equations
-5. Denoising Diffusion Implicit Models
+1. ~~Denoising Diffusion Probabilistic Models~~
+2. ~~Generative Modeling by Estimating Gradients of the Data Distribution~~
+3. ~~Improved techniques for training score-based generative models~~
+4. ~~Score-Based Generative Modeling through Stochastic Differential Equations~~
+5. ~~Denoising Diffusion Implicit Models~~
+
 6. Improved Denoising Diffusion Probabilistic Models
 7.  Diffusion Models Beat GANs on Image Synthesis 
 8. Classifier-Free Diffusion Guidance
