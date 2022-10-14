@@ -77,35 +77,36 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 8. Classifier-Free Diffusion Guidance
 9. Variational Diffusion Models
 10. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
-11. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion
+11. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion (if time permits)
 12. Perception Prioritized Training of Diffusion Models
 13. Elucidating the Design Space of Diffusion-Based Generative Models
 14. Pyramidal Denoising Diffusion Probabilistic Models (if time permits)
-15. Score-based Generative Modeling in Latent Space 
-16. High-Resolution Image Synthesis with Latent Diffusion Models
-17. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
-18. Image super-resolution via iterative refinement
-19. Palette: Image-to-image diffusion models
-20. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
-21. Hierarchical Text-Conditional Image Generation with CLIP Latents
-22. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
-23. Pseudo Numerical Methods for Diffusion Models on Manifolds
-24. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
-25. Riemannian Score-Based Generative Modeling
-26. DiffWave: A Versatile Diffusion Model for Audio Synthesis
-27. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
-28. Video diffusion models
-29. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-30. Diffusion-LM Improves Controllable Text Generation.
-31. Autoregressive Diffusion Models
-32. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
-33. Vector quantized diffusion model for text-to-image synthesis
-34. Improved Vector Quantized Diffusion Models
-35. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
-36. Understanding ddpm latent codes through optimal transport
-37. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
-38. Dual Diffusion Implicit Bridges for Image-to-Image Translation
-39. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-40. Generative Modelling With Inverse Heat Dissipation
-41. Blurring Diffusion Models
-42. Soft Diffusion: Score Matching for General Corruptions
+15. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+16. Generative Modelling With Inverse Heat Dissipation
+17. Blurring Diffusion Models
+18. Soft Diffusion: Score Matching for General Corruptions
+19. Score-based Generative Modeling in Latent Space 
+20. High-Resolution Image Synthesis with Latent Diffusion Models
+21. Stable Diffusion
+22. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
+23. Image super-resolution via iterative refinement
+24. Palette: Image-to-image diffusion models
+25. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+26. Hierarchical Text-Conditional Image Generation with CLIP Latents
+27. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+28. Pseudo Numerical Methods for Diffusion Models on Manifolds
+29. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
+30. Riemannian Score-Based Generative Modeling
+31. DiffWave: A Versatile Diffusion Model for Audio Synthesis
+32. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
+33. Video diffusion models
+34. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+35. Diffusion-LM Improves Controllable Text Generation.
+36. Autoregressive Diffusion Models
+37. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
+38. Vector quantized diffusion model for text-to-image synthesis
+39. Improved Vector Quantized Diffusion Models
+40. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
+41. Understanding ddpm latent codes through optimal transport
+42. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
+43. Dual Diffusion Implicit Bridges for Image-to-Image Translation
