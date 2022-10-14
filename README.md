@@ -11,6 +11,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 3: NCSNv2 and Score SDEs](#week-3-ncsnv2-and-score-sdes)
    * [Week 4: Score SDEs and DDIM](#week-4-score-sdes-and-ddim)
    * [Week 5: IDDPM, ADM, and Classifier-Free Guidance](#week-5-iddpm-adm-and-classifier-free-guidance)
+   * [Week 6: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs](#week-6-classifier-free-guidance-vdms-and-denoising-diffusion-gans)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
