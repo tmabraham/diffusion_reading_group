@@ -11,7 +11,8 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 3: NCSNv2 and Score SDEs](#week-3-ncsnv2-and-score-sdes)
    * [Week 4: Score SDEs and DDIM](#week-4-score-sdes-and-ddim)
    * [Week 5: IDDPM, ADM, and Classifier-Free Guidance](#week-5-iddpm-adm-and-classifier-free-guidance)
-   * [Week 6: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs](#week-6-classifier-free-guidance-vdms-and-denoising-diffusion-gans)
+   * [Week 6: Review](#week-6-review)
+   * [Week 7: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs](#week-7-classifier-free-guidance-vdms-and-denoising-diffusion-gans)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
@@ -55,7 +56,11 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * [Recording](https://youtu.be/L4PHJn1VHbY)
 * [Slides](%235%20IDDPM%20and%20ADM.pdf)
 
-## Week 6: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs
+## Week 6: Review
+* Readings:
+  * All prior readings
+
+## Week 7: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs
 * Readings: 
   * [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
   * [Sander Dieleman's blog post on guidance](https://benanne.github.io/2022/05/26/guidance.html)
@@ -77,36 +82,43 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 8. Classifier-Free Diffusion Guidance
 9. Variational Diffusion Models
 10. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
-11. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion (if time permits)
-12. Perception Prioritized Training of Diffusion Models
-13. Elucidating the Design Space of Diffusion-Based Generative Models
-14. Pyramidal Denoising Diffusion Probabilistic Models (if time permits)
-15. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-16. Generative Modelling With Inverse Heat Dissipation
-17. Blurring Diffusion Models
-18. Soft Diffusion: Score Matching for General Corruptions
-19. Score-based Generative Modeling in Latent Space 
-20. High-Resolution Image Synthesis with Latent Diffusion Models
-21. Stable Diffusion
-22. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
-23. Image super-resolution via iterative refinement
-24. Palette: Image-to-image diffusion models
-25. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
-26. Hierarchical Text-Conditional Image Generation with CLIP Latents
-27. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
-28. Pseudo Numerical Methods for Diffusion Models on Manifolds
-29. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
-30. Riemannian Score-Based Generative Modeling
-31. DiffWave: A Versatile Diffusion Model for Audio Synthesis
-32. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
-33. Video diffusion models
-34. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-35. Diffusion-LM Improves Controllable Text Generation.
-36. Autoregressive Diffusion Models
-37. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
-38. Vector quantized diffusion model for text-to-image synthesis
-39. Improved Vector Quantized Diffusion Models
-40. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
-41. Understanding ddpm latent codes through optimal transport
-42. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
-43. Dual Diffusion Implicit Bridges for Image-to-Image Translation
+11. Perception Prioritized Training of Diffusion Models
+12. Elucidating the Design Space of Diffusion-Based Generative Models
+13. Pyramidal Denoising Diffusion Probabilistic Models (if time permits)
+14. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+15. Generative Modelling With Inverse Heat Dissipation
+16. Blurring Diffusion Models
+17. Soft Diffusion: Score Matching for General Corruptions
+18. Score-based Generative Modeling in Latent Space 
+19. High-Resolution Image Synthesis with Latent Diffusion Models
+20. Stable Diffusion
+21. Progressive Distillation for Fast Sampling of Diffusion Models
+22. On Distillation of Guided Diffusion Models
+23. Cascaded Diffusion Models for High Fidelity Image Generation
+24. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
+25. Image super-resolution via iterative refinement
+26. Palette: Image-to-image diffusion models
+27. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+28. Hierarchical Text-Conditional Image Generation with CLIP Latents
+29. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+30. Pseudo Numerical Methods for Diffusion Models on Manifolds
+31. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
+32. Riemannian Score-Based Generative Modeling
+33. DiffWave: A Versatile Diffusion Model for Audio Synthesis
+34. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
+35. Video diffusion models
+36. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+37. Imagen Video: High Definition Video Generation with Diffusion Models
+38. Make-A-Video: Text-to-Video Generation without Text-Video Data
+39. Diffusion-LM Improves Controllable Text Generation.
+40. Autoregressive Diffusion Models
+41. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
+42. Vector quantized diffusion model for text-to-image synthesis
+43. Improved Vector Quantized Diffusion Models
+44. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
+45. Diffusion Models already have a Semantic Latent Space
+46. Understanding ddpm latent codes through optimal transport
+47. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
+48. Dual Diffusion Implicit Bridges for Image-to-Image Translation
+49. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
+50. Flow Matching for Generative Modeling
