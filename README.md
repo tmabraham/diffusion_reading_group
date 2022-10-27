@@ -60,7 +60,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * Readings:
   * All prior readings
 * [Recording](https://www.youtube.com/watch?v=S01qKbC6wdA)
-* [Slides](%236%20Review.pdf
+* [Slides](%236%20Review.pdf)
 
 ## Week 7: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs
 * Readings: 
