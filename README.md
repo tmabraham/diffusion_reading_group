@@ -81,19 +81,19 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 5. ~~Denoising Diffusion Implicit Models~~
 6. ~~Improved Denoising Diffusion Probabilistic Models~~
 7. ~~Diffusion Models Beat GANs on Image Synthesis~~
-8. Classifier-Free Diffusion Guidance
-9. Variational Diffusion Models
-10. Tackling the Generative Learning Trilemma with Denoising Diffusion GANs
+8. ~~Classifier-Free Diffusion Guidance~~
+9. ~~Variational Diffusion Models~~
+10. ~~Tackling the Generative Learning Trilemma with Denoising Diffusion GANs~~
 11. Perception Prioritized Training of Diffusion Models
 12. Elucidating the Design Space of Diffusion-Based Generative Models
-13. Pyramidal Denoising Diffusion Probabilistic Models (if time permits)
-14. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-15. Generative Modelling With Inverse Heat Dissipation
-16. Blurring Diffusion Models
-17. Soft Diffusion: Score Matching for General Corruptions
-18. Score-based Generative Modeling in Latent Space 
-19. High-Resolution Image Synthesis with Latent Diffusion Models
-20. Stable Diffusion
+13. High-Resolution Image Synthesis with Latent Diffusion Models
+14. Stable Diffusion
+15. Score-based Generative Modeling in Latent Space 
+16. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+17. Generative Modelling With Inverse Heat Dissipation
+18. Blurring Diffusion Models
+19. Soft Diffusion: Score Matching for General Corruptions
+20. Pyramidal Denoising Diffusion Probabilistic Models
 21. Progressive Distillation for Fast Sampling of Diffusion Models
 22. On Distillation of Guided Diffusion Models
 23. Cascaded Diffusion Models for High Fidelity Image Generation
