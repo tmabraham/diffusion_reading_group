@@ -13,6 +13,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 5: IDDPM, ADM, and Classifier-Free Guidance](#week-5-iddpm-adm-and-classifier-free-guidance)
    * [Week 6: Review](#week-6-review)
    * [Week 7: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs](#week-7-classifier-free-guidance-vdms-and-denoising-diffusion-gans)
+   * [Week 8: Perception-Prioritized Training, Elucidating Design Spaces](#week-8-perception-prioritized-training-elucidating-design-spaces)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
@@ -74,6 +75,14 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [Arash Vahdat's DLCT talk slides](https://rosanneliu.com/dlctfs/dlct_220204.pdf)
 * [Recording](https://youtu.be/EuK9BeuOSPs)
 * [Slides](%237%20CFG%2C%20VDM%20and%20DDGAN.pdf)
+
+## Week 8: Perception-Prioritized Training, Elucidating Design Spaces
+* Readings:
+  * [Perception Prioritized Training of Diffusion Models](https://arxiv.org/abs/2204.00227)
+    * [Official Codebase](https://github.com/jychoi118/P2-weighting)
+  * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
+    * [Official Codebase](https://github.com/NVlabs/edm) 
+    * [Katherine's codebase](https://github.com/crowsonkb/k-diffusion/)
 
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
