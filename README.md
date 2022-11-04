@@ -72,6 +72,8 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](https://arxiv.org/abs/2112.07804)
   * [Vahdat and Kreis's blog post](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-2/)
   * [Arash Vahdat's DLCT talk slides](https://rosanneliu.com/dlctfs/dlct_220204.pdf)
+* [Recording](https://youtu.be/EuK9BeuOSPs)
+* [Slides](%237%20CFG%2C%20VDM%20and%20DDGAN.pdf)
 
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
