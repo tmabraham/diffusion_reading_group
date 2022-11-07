@@ -83,6 +83,9 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
     * [Official Codebase](https://github.com/NVlabs/edm) 
     * [Katherine's codebase](https://github.com/crowsonkb/k-diffusion/)
+  * [Recording](https://youtu.be/ffq6RAmfGzk)
+  * [Notebook - P2 paper](https://marii-moe.github.io/quatro-blog/posts/perception-prioritized-training-of-diffusion-models/Perception%20Prioritized%20Training%20of%20Diffusion%20Models.html)
+  * [Slides - EDM paper](%238%20EDM.pdf)
 
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
