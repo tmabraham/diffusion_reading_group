@@ -1,6 +1,6 @@
 # Diffusion Reading Group at EleutherAI
 
-This is an ongoing study group occuring the EleutherAI Discord server. You can join the server over [here](https://discord.gg/zBGx3azzUn), then head to the "Diffusion Reading Group" thread under the #multimodal channel.
+This is an ongoing study group occuring the EleutherAI Discord server. You can join the server over [here](https://discord.gg/zBGx3azzUn), then head to the "Diffusion Reading Group" thread under the #reading-groups channel.
 
 [Here is a playlist](https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM) of the previous session recordings.
 
