@@ -14,6 +14,9 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 6: Review](#week-6-review)
    * [Week 7: Classifier-Free Guidance, VDMs, and Denoising Diffusion GANs](#week-7-classifier-free-guidance-vdms-and-denoising-diffusion-gans)
    * [Week 8: Perception-Prioritized Training, Elucidating Design Spaces](#week-8-perception-prioritized-training-elucidating-design-spaces)
+   * [Week 9: DDPM paper, EDM paper code walk-thrus](#week-9-ddpm-paper-edm-paper-code-walk-thrus)
+   * [Week 10: Paella](#week-10-paella)
+   * [Week 11: Progressive Distillation, Distillation of Guided Models](#week-11-progressive-distillation-distillation-of-guided-models)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
