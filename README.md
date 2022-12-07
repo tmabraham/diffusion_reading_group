@@ -84,8 +84,27 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
     * [Official Codebase](https://github.com/NVlabs/edm) 
     * [Katherine's codebase](https://github.com/crowsonkb/k-diffusion/)
   * [Recording](https://youtu.be/ffq6RAmfGzk)
-  * [Notebook - P2 paper](https://marii-moe.github.io/quatro-blog/posts/perception-prioritized-training-of-diffusion-models/Perception%20Prioritized%20Training%20of%20Diffusion%20Models.html)
+  * [Notebook - P2 paper](https://marii-moe.github.io/quatro-blog/posts/perception-prioritized-training-of-diffusion-models/Perception%20Prioritized%20Training%20of%20Diffusion%20Models.html) (presented by Molly Beavers)
   * [Slides - EDM paper](%238%20EDM.pdf)
+
+## Week 9: DDPM paper, EDM paper code walk-thrus
+* Readings:
+  * [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+  * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
+    * [Katherine's codebase](https://github.com/crowsonkb/k-diffusion/) (walk-thru by Jeremy Howard)
+* [Recording](https://youtu.be/Ke5Wqdj3O5Q)
+* [DDPM Colab notebook]()
+
+## Week 10: Paella
+* Readings: 
+  * [Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces](https://arxiv.org/abs/2211.07292) 
+* [Recording](https://youtu.be/MY01FGCyaaA)
+
+
+## Week 11: Progressive Distillation, Distillation of Guided Models
+* Readings:
+  * [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2202.00512) 
+  * [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142)
 
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
@@ -98,18 +117,18 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 8. ~~Classifier-Free Diffusion Guidance~~
 9. ~~Variational Diffusion Models~~
 10. ~~Tackling the Generative Learning Trilemma with Denoising Diffusion GANs~~
-11. Perception Prioritized Training of Diffusion Models
-12. Elucidating the Design Space of Diffusion-Based Generative Models
-13. High-Resolution Image Synthesis with Latent Diffusion Models
-14. Stable Diffusion
-15. Score-based Generative Modeling in Latent Space 
-16. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-17. Generative Modelling With Inverse Heat Dissipation
-18. Blurring Diffusion Models
-19. Soft Diffusion: Score Matching for General Corruptions
-20. Pyramidal Denoising Diffusion Probabilistic Models
-21. Progressive Distillation for Fast Sampling of Diffusion Models
-22. On Distillation of Guided Diffusion Models
+11. ~~Perception Prioritized Training of Diffusion Models~~
+12. ~~Elucidating the Design Space of Diffusion-Based Generative Models~~
+13. ~~Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces~~
+14. Progressive Distillation for Fast Sampling of Diffusion Models
+15. On Distillation of Guided Diffusion Models
+16. High-Resolution Image Synthesis with Latent Diffusion Models
+17. Stable Diffusion
+18. Soft Diffusion: Score Matching for General Corruptions
+19. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+20. Generative Modelling With Inverse Heat Dissipation
+21. Blurring Diffusion Models 
+22. Pyramidal Denoising Diffusion Probabilistic Models
 23. Cascaded Diffusion Models for High Fidelity Image Generation
 24. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
 25. Image super-resolution via iterative refinement
@@ -119,22 +138,28 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 29. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
 30. Pseudo Numerical Methods for Diffusion Models on Manifolds
 31. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
-32. Riemannian Score-Based Generative Modeling
-33. DiffWave: A Versatile Diffusion Model for Audio Synthesis
-34. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
-35. Video diffusion models
-36. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-37. Imagen Video: High Definition Video Generation with Diffusion Models
-38. Make-A-Video: Text-to-Video Generation without Text-Video Data
-39. Diffusion-LM Improves Controllable Text Generation.
-40. Autoregressive Diffusion Models
-41. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
-42. Vector quantized diffusion model for text-to-image synthesis
-43. Improved Vector Quantized Diffusion Models
-44. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
-45. Diffusion Models already have a Semantic Latent Space
-46. Understanding ddpm latent codes through optimal transport
-47. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
-48. Dual Diffusion Implicit Bridges for Image-to-Image Translation
-49. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
-50. Flow Matching for Generative Modeling
+32. DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models
+33. Riemannian Score-Based Generative Modeling
+34. DiffWave: A Versatile Diffusion Model for Audio Synthesis
+35. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
+36. Video diffusion models
+37. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+38. Imagen Video: High Definition Video Generation with Diffusion Models
+39. Make-A-Video: Text-to-Video Generation without Text-Video Data
+40. DreamFusion: Text-to-3D using 2D Diffusion
+41. Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation
+42. Magic3D: High-Resolution Text-to-3D Content Creation
+43. Diffusion-LM Improves Controllable Text Generation.
+44. Autoregressive Diffusion Models
+45. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
+46. Continuous diffusion for categorical data
+47. DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models
+48. Vector quantized diffusion model for text-to-image synthesis
+49. Improved Vector Quantized Diffusion Models
+50. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
+51. Diffusion Models already have a Semantic Latent Space
+52. Understanding ddpm latent codes through optimal transport
+53. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
+54. Dual Diffusion Implicit Bridges for Image-to-Image Translation
+55. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
+56. Flow Matching for Generative Modeling
