@@ -96,7 +96,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
     * [Katherine's codebase](https://github.com/crowsonkb/k-diffusion/) (walk-thru by Jeremy Howard)
 * [Recording](https://youtu.be/Ke5Wqdj3O5Q)
-* [DDPM Colab notebook]()
+* [DDPM Colab notebook](https://colab.research.google.com/github/tmabraham/diffusion_reading_group/blob/main/Diffusion%20Reading%20Study%20Group%20%239%20-%20DDPM%20Code%20Walk-Thru.ipynb)
 
 ## Week 10: Paella
 * Readings: 
