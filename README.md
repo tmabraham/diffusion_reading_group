@@ -108,6 +108,8 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * Readings:
   * [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2202.00512) 
   * [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142)
+* [Recording](https://youtu.be/ssAed4eNhuY)
+* [Slides - Distillation of Guided Models](%2311B%20On%20Distillation%20of%20Guided%20Diffusion%20Models.pdf) - Presented by Griffin Floto
 
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
@@ -123,46 +125,46 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 11. ~~Perception Prioritized Training of Diffusion Models~~
 12. ~~Elucidating the Design Space of Diffusion-Based Generative Models~~
 13. ~~Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces~~
-14. Progressive Distillation for Fast Sampling of Diffusion Models
-15. On Distillation of Guided Diffusion Models
+14. ~~Progressive Distillation for Fast Sampling of Diffusion Models~~
+15. ~~On Distillation of Guided Diffusion Models~~
 16. High-Resolution Image Synthesis with Latent Diffusion Models
 17. Stable Diffusion
 18. Soft Diffusion: Score Matching for General Corruptions
 19. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
 20. Generative Modelling With Inverse Heat Dissipation
-21. Blurring Diffusion Models 
-22. Pyramidal Denoising Diffusion Probabilistic Models
-23. Cascaded Diffusion Models for High Fidelity Image Generation
-24. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
-25. Image super-resolution via iterative refinement
-26. Palette: Image-to-image diffusion models
-27. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
-28. Hierarchical Text-Conditional Image Generation with CLIP Latents
-29. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
-30. Pseudo Numerical Methods for Diffusion Models on Manifolds
-31. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
-32. DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models
-33. Riemannian Score-Based Generative Modeling
-34. DiffWave: A Versatile Diffusion Model for Audio Synthesis
-35. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
-36. Video diffusion models
-37. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-38. Imagen Video: High Definition Video Generation with Diffusion Models
-39. Make-A-Video: Text-to-Video Generation without Text-Video Data
-40. DreamFusion: Text-to-3D using 2D Diffusion
-41. Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation
-42. Magic3D: High-Resolution Text-to-3D Content Creation
-43. Diffusion-LM Improves Controllable Text Generation.
-44. Autoregressive Diffusion Models
-45. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
-46. Continuous diffusion for categorical data
-47. DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models
-48. Vector quantized diffusion model for text-to-image synthesis
-49. Improved Vector Quantized Diffusion Models
-50. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
-51. Diffusion Models already have a Semantic Latent Space
-52. Understanding ddpm latent codes through optimal transport
-53. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
-54. Dual Diffusion Implicit Bridges for Image-to-Image Translation
-55. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
-56. Flow Matching for Generative Modeling
+21. Blurring Diffusion Models
+22. Flow Matching for Generative Modeling
+23. Pyramidal Denoising Diffusion Probabilistic Models
+24. Cascaded Diffusion Models for High Fidelity Image Generation
+25. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
+26. Image super-resolution via iterative refinement
+27. Palette: Image-to-image diffusion models
+28. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+29. Hierarchical Text-Conditional Image Generation with CLIP Latents
+30. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+31. Pseudo Numerical Methods for Diffusion Models on Manifolds
+32. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
+33. DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models
+34. Riemannian Score-Based Generative Modeling
+35. DiffWave: A Versatile Diffusion Model for Audio Synthesis
+36. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
+37. Video diffusion models
+38. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+39. Imagen Video: High Definition Video Generation with Diffusion Models
+40. Make-A-Video: Text-to-Video Generation without Text-Video Data
+41. DreamFusion: Text-to-3D using 2D Diffusion
+42. Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation
+43. Magic3D: High-Resolution Text-to-3D Content Creation
+44. Diffusion-LM Improves Controllable Text Generation.
+45. Autoregressive Diffusion Models
+46. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
+47. Continuous diffusion for categorical data
+48. DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models
+49. Vector quantized diffusion model for text-to-image synthesis
+50. Improved Vector Quantized Diffusion Models
+51. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
+52. Diffusion Models already have a Semantic Latent Space
+53. Understanding ddpm latent codes through optimal transport
+54. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
+55. Dual Diffusion Implicit Bridges for Image-to-Image Translation
+56. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
