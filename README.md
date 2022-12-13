@@ -109,6 +109,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2202.00512) 
   * [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142)
 * [Recording](https://youtu.be/ssAed4eNhuY)
+* [Slides - Progressive Distillation](%2311B%20On%20Distillation%20of%20Guided%20Diffusion%20Models.pdf) - Presented by marii
 * [Slides - Distillation of Guided Models](%2311B%20On%20Distillation%20of%20Guided%20Diffusion%20Models.pdf) - Presented by Griffin Floto
 
 ## List of papers to cover:
