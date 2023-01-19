@@ -17,6 +17,8 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 9: DDPM paper, EDM paper code walk-thrus](#week-9-ddpm-paper-edm-paper-code-walk-thrus)
    * [Week 10: Paella](#week-10-paella)
    * [Week 11: Progressive Distillation, Distillation of Guided Models](#week-11-progressive-distillation-distillation-of-guided-models)
+   * [Week 12: SDEDit](#week-12-sdedit)
+* [Week 13: Latent Diffusion and Stable Diffusion](#week-13-latent-diffusion-and-stable-diffusion)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
