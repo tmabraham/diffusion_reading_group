@@ -112,6 +112,23 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * [Slides - Progressive Distillation](%2311B%20On%20Distillation%20of%20Guided%20Diffusion%20Models.pdf) - Presented by marii
 * [Slides - Distillation of Guided Models](%2311B%20On%20Distillation%20of%20Guided%20Diffusion%20Models.pdf) - Presented by Griffin Floto
 
+## Week 12: SDEDit
+* Readings:
+  * [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
+* [Recording]()
+* [Slides](%2312%20SDEdit.pdf)
+
+# Week 13: Latent Diffusion and Stable Diffusion
+* Readings:
+  * [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+  * [Annotated Paper Implementation of Latent/Stable Diffusion](https://nn.labml.ai/diffusion/stable_diffusion/latent_diffusion.html)
+  * [Lilian Weng's blog post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#speed-up-diffusion-model-sampling)
+  * [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
+  * [HuggingFace blog post on Stable Diffusion](https://huggingface.co/blog/stable_diffusion#how-does-stable-diffusion-work)
+* [Recording](https://youtu.be/EZdB63fGum4)
+* [Slides](https://github.com/tmabraham/diffusion_reading_group/blob/main/%2313%20Latent%20Diffusion%20and%20Stable%20Diffusion.pdf)
+
+
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
 2. ~~Generative Modeling by Estimating Gradients of the Data Distribution~~
@@ -128,16 +145,16 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 13. ~~Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces~~
 14. ~~Progressive Distillation for Fast Sampling of Diffusion Models~~
 15. ~~On Distillation of Guided Diffusion Models~~
-16. High-Resolution Image Synthesis with Latent Diffusion Models
-17. Stable Diffusion
-18. Soft Diffusion: Score Matching for General Corruptions
-19. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-20. Generative Modelling With Inverse Heat Dissipation
-21. Blurring Diffusion Models
-22. Flow Matching for Generative Modeling
-23. Pyramidal Denoising Diffusion Probabilistic Models
-24. Cascaded Diffusion Models for High Fidelity Image Generation
-25. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
+16. ~~SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations~~
+17. ~~High-Resolution Image Synthesis with Latent Diffusion Models~~
+18. ~~Stable Diffusion~~
+19. Soft Diffusion: Score Matching for General Corruptions
+20. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+21. Generative Modelling With Inverse Heat Dissipation
+22. Blurring Diffusion Models
+23. Flow Matching for Generative Modeling
+24. Pyramidal Denoising Diffusion Probabilistic Models
+25. Cascaded Diffusion Models for High Fidelity Image Generation
 26. Image super-resolution via iterative refinement
 27. Palette: Image-to-image diffusion models
 28. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
