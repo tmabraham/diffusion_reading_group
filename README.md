@@ -120,7 +120,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * [Recording]()
 * [Slides](%2312%20SDEdit.pdf)
 
-# Week 13: Latent Diffusion and Stable Diffusion
+## Week 13: Latent Diffusion and Stable Diffusion
 * Readings:
   * [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
   * [Annotated Paper Implementation of Latent/Stable Diffusion](https://nn.labml.ai/diffusion/stable_diffusion/latent_diffusion.html)
@@ -129,6 +129,14 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [HuggingFace blog post on Stable Diffusion](https://huggingface.co/blog/stable_diffusion#how-does-stable-diffusion-work)
 * [Recording](https://youtu.be/EZdB63fGum4)
 * [Slides](https://github.com/tmabraham/diffusion_reading_group/blob/main/%2313%20Latent%20Diffusion%20and%20Stable%20Diffusion.pdf)
+
+## Week 14: Q&A with Robin Rombach
+* Readings:
+    * Same as Week 13
+* [Recording](https://youtu.be/GZZvgxIm6WU)
+
+## Week 15: Soft Diffusion
+* Readings:
 
 
 ## List of papers to cover:
@@ -150,11 +158,11 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 16. ~~SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations~~
 17. ~~High-Resolution Image Synthesis with Latent Diffusion Models~~
 18. ~~Stable Diffusion~~
-19. Soft Diffusion: Score Matching for General Corruptions
-20. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-21. Generative Modelling With Inverse Heat Dissipation
-22. Blurring Diffusion Models
-23. Flow Matching for Generative Modeling
+19. ~~Soft Diffusion: Score Matching for General Corruptions~~
+20. Flow Matching for Generative Modeling
+21. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+22. Generative Modelling With Inverse Heat Dissipation
+23. Blurring Diffusion Models
 24. Pyramidal Denoising Diffusion Probabilistic Models
 25. Cascaded Diffusion Models for High Fidelity Image Generation
 26. Image super-resolution via iterative refinement
