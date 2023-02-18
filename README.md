@@ -18,7 +18,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 10: Paella](#week-10-paella)
    * [Week 11: Progressive Distillation, Distillation of Guided Models](#week-11-progressive-distillation-distillation-of-guided-models)
    * [Week 12: SDEDit](#week-12-sdedit)
-* [Week 13: Latent Diffusion and Stable Diffusion](#week-13-latent-diffusion-and-stable-diffusion)
+   * [Week 13: Latent Diffusion and Stable Diffusion](#week-13-latent-diffusion-and-stable-diffusion)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
@@ -117,7 +117,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 ## Week 12: SDEDit
 * Readings:
   * [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
-* [Recording]()
+* [Recording](https://www.youtube.com/watch?v=ZMjVKWlmQbM)
 * [Slides](%2312%20SDEdit.pdf)
 
 ## Week 13: Latent Diffusion and Stable Diffusion
@@ -137,6 +137,8 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 
 ## Week 15: Soft Diffusion
 * Readings:
+  * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
+* [Recording](https://www.youtube.com/watch?v=Ped_I1uPL8Q)
 
 
 ## List of papers to cover:
