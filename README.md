@@ -19,6 +19,8 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 11: Progressive Distillation, Distillation of Guided Models](#week-11-progressive-distillation-distillation-of-guided-models)
    * [Week 12: SDEDit](#week-12-sdedit)
    * [Week 13: Latent Diffusion and Stable Diffusion](#week-13-latent-diffusion-and-stable-diffusion)
+   * [Week 14: Q&amp;A with Robin Rombach](#week-14-qa-with-robin-rombach)
+   * [Week 15: Soft Diffusion](#week-15-soft-diffusion)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
