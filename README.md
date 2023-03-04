@@ -21,6 +21,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 13: Latent Diffusion and Stable Diffusion](#week-13-latent-diffusion-and-stable-diffusion)
    * [Week 14: Q&amp;A with Robin Rombach](#week-14-qa-with-robin-rombach)
    * [Week 15: Soft Diffusion](#week-15-soft-diffusion)
+   * [Week 16 & 17: Flow Matching](#week-16-17-flow-matching)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
@@ -142,6 +143,10 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
   * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
 * [Recording](https://www.youtube.com/watch?v=Ped_I1uPL8Q)
 
+## Week 16 & 17: Flow Matching
+* Readings:
+  * [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
+  * [Recording](https://youtu.be/DM8Ft15QmzI)
 
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
