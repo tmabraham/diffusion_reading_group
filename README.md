@@ -148,7 +148,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * Readings:
   * [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
 * [Recording](https://youtu.be/DM8Ft15QmzI)
-* [Recording](https://youtu.be/YTptFtt4iyE)
+* [Recording](https://youtu.be/ZeDpfxIVXto)
 * [Slides](%2316%20Flow%20Matching.pdf)
   
  ## Week 18: Consistency Models
