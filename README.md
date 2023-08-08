@@ -214,6 +214,7 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * Readings:
   * [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
 * [Recording](https://youtu.be/xzaZ19z8tOQ)
+* [Slides](%2326%20DDPO.pdf)
 
 ## Week 27: Diffusion Transformers
 * Readings:
