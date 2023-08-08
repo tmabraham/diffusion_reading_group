@@ -178,12 +178,15 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 * Readings:
   * [Generative Modelling With Inverse Heat Dissipation](https://arxiv.org/abs/2206.13397)
 * [Recording](https://youtu.be/q_ozv1VVdAA)
+* [Slides](%2320%20Inverse%20Heat%20Dissipation.html)
 
 ## Week 21: Poisson Flow Generative Models
 * Readings:
   * [Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178)
   * [AssemblyAI blog post](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/)
 * [Recording](https://youtu.be/l28qf2Jn7ZA)
+* [Slides](%2321%20Poisson%20Flow%20Generative%20Models.pdf)
+* [Slides - other formats](https://github.com/irregular-rhomboid/PFGM-talks)
 
 ## Week 22: Min-SNR Weighting Strategy
 * Readings:
@@ -193,6 +196,9 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 ## Week 23: PFGM++
 * Readings:
   * [PFGM++: Unlocking the Potential of Physics-Inspired Generative Models](https://arxiv.org/abs/2302.04265)
+* [Recording](https://youtu.be/5YDazNs-YMU)
+* [Slides](%2323%20PFGM%2B%2B.pdf)
+* [Slides - other formats](https://github.com/irregular-rhomboid/PFGM-talks)
 
 ## Week 24: Blurring Diffusion Models
 * Readings:
