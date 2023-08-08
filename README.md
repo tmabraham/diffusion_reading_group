@@ -23,6 +23,18 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Week 15: Soft Diffusion](#week-15-soft-diffusion)
    * [Week 16 &amp; 17: Flow Matching](#week-16--17-flow-matching)
    * [Week 18: Consistency Models](#week-18-consistency-models)
+   * [Week 19: Conditional Flow Matching](#week-19-conditional-flow-matching)
+   * [Week 20: Inverse Heat Dissipation](#week-20-inverse-heat-dissipation)
+   * [Week 21: Poisson Flow Generative Models](#week-21-poisson-flow-generative-models)
+   * [Week 22: Min-SNR Weighting Strategy](#week-22-min-snr-weighting-strategy)
+   * [Week 23: PFGM++](#week-23-pfgm)
+   * [Week 24: Blurring Diffusion Models](#week-24-blurring-diffusion-models)
+   * [Week 25: ControlNet](#week-25-controlnet)
+   * [Week 26: DDPO (RLHF Diffusion)](#week-26-ddpo-rlhf-diffusion)
+   * [Week 27: Diffusion Transformers](#week-27-diffusion-transformers)
+   * [Week 28: simple diffusion](#week-28-simple-diffusion)
+   * [Week 29: Wuerstchen](#week-29-wuerstchen)
+   * [Week 30: Palette](#week-30-palette)
    * [List of papers to cover:](#list-of-papers-to-cover)
 <!--te-->
 
