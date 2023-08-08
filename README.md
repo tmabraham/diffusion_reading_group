@@ -156,8 +156,68 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
    * [Consistency Models](https://arxiv.org/abs/2303.01469)
  * [Recording](https://youtu.be/M1-jaVuZC4I)
  * [Slides](%2318%20-%20Consistency%20Models.pdf)
- 
 
+## Week 19: Conditional Flow Matching
+* Readings:
+  * [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport](https://arxiv.org/abs/2302.00482)
+* [Recording](https://youtu.be/d5ljj_pEkUg)
+
+## Week 20: Inverse Heat Dissipation
+* Readings:
+  * [Generative Modelling With Inverse Heat Dissipation](https://arxiv.org/abs/2206.13397)
+* [Recording](https://youtu.be/q_ozv1VVdAA)
+
+## Week 21: Poisson Flow Generative Models
+* Readings:
+  * [Poisson Flow Generative Models](https://arxiv.org/abs/2209.11178)
+  * [AssemblyAI blog post](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/)
+* [Recording](https://youtu.be/l28qf2Jn7ZA)
+
+## Week 22: Min-SNR Weighting Strategy
+* Readings:
+  * [Efficient Diffusion Training via Min-SNR Weighting Strategy](https://arxiv.org/abs/2303.09556)
+* [Recording](https://youtu.be/SX_IKmil0ao)
+
+## Week 23: PFGM++
+* Readings:
+  * [PFGM++: Unlocking the Potential of Physics-Inspired Generative Models](https://arxiv.org/abs/2302.04265)
+
+## Week 24: Blurring Diffusion Models
+* Readings:
+  * [Blurring Diffusion Models](https://arxiv.org/abs/2209.05557)
+* [Recording](https://youtu.be/-zOtwta31LU)
+
+## Week 25: ControlNet
+* Readings:
+  * [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+* [Recording](https://youtu.be/S_HCnM8BFk0)
+
+## Week 26: DDPO (RLHF Diffusion)
+* Readings:
+  * [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
+* [Recording](https://youtu.be/xzaZ19z8tOQ)
+
+## Week 27: Diffusion Transformers
+* Readings:
+  * [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)
+* [Recording](https://youtu.be/3UBayMBsuqk)
+
+## Week 28: simple diffusion
+* Readings:
+  * [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/abs/2301.11093)
+* [Recording](https://youtu.be/KIO_amGmqlA)
+
+## Week 29: Wuerstchen
+* Readings:
+  * [Wuerstchen: Efficient Pretraining of Text-to-Image Models](https://arxiv.org/abs/2306.00637)
+* [Recording](https://youtu.be/YFJDATJcqhg)
+
+## Week 30: Palette
+* Readings:
+  * [Palette: Image-to-Image Diffusion Models](https://arxiv.org/abs/2111.05826)
+* [Recording](https://youtu.be/7IEue0u2XRE)
+
+  
 ## List of papers to cover:
 1. ~~Denoising Diffusion Probabilistic Models~~
 2. ~~Generative Modeling by Estimating Gradients of the Data Distribution~~
@@ -180,53 +240,58 @@ This is an ongoing study group occuring the EleutherAI Discord server. You can j
 19. ~~Soft Diffusion: Score Matching for General Corruptions~~
 20. ~~Flow Matching for Generative Modeling~~
 21. ~~Consistency Models~~
-22. Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport
-23. Poisson Flow Generative Models
-24. Efficient Diffusion Training via Min-SNR Weighting Strategy
-25. Generative Modelling With Inverse Heat Dissipation
-26. Blurring Diffusion Models
-27. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
-28. Pyramidal Denoising Diffusion Probabilistic Models
-29. Cascaded Diffusion Models for High Fidelity Image Generation
-30. Image super-resolution via iterative refinement
-31. Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild
-32. Palette: Image-to-image diffusion models
-33. Adding Conditional Control to Text-to-Image Diffusion Models
-34. I$^2$SB: Image-to-Image Schr\"odinger Bridge
-35. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
-36. Hierarchical Text-Conditional Image Generation with CLIP Latents
-37. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
-38. eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers
-39. Semi-Parametric Neural Image Synthesis
-40. Scalable Diffusion Models with Transformers
-41. simple diffusion: End-to-end diffusion for high resolution images
-42. On the Importance of Noise Scheduling for Diffusion Models
-43. Pseudo Numerical Methods for Diffusion Models on Manifolds
-44. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
-45. DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models
-46. GENIE: Higher-Order Denoising Diffusion Solvers
-47. Journey to the BAOAB-limit: ﬁnding effective MCMC samplers for score-based models
-48. Riemannian Score-Based Generative Modeling
-49. DiffWave: A Versatile Diffusion Model for Audio Synthesis
-50. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
-51. Video diffusion models
-52. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-53. Imagen Video: High Definition Video Generation with Diffusion Models
-54. Make-A-Video: Text-to-Video Generation without Text-Video Data
-55. DreamFusion: Text-to-3D using 2D Diffusion
-56. Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation
-57. Magic3D: High-Resolution Text-to-3D Content Creation
-58. Diffusion-LM Improves Controllable Text Generation.
-59. Autoregressive Diffusion Models
-60. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
-61. Continuous diffusion for categorical data
-62. DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models
-63. Vector quantized diffusion model for text-to-image synthesis
-64. Improved Vector Quantized Diffusion Models
-65. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
-66. Diffusion Models already have a Semantic Latent Space
-67. Understanding ddpm latent codes through optimal transport
-68. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
-69. Dual Diffusion Implicit Bridges for Image-to-Image Translation
-70. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
-71. Zero-shot Image-to-Image Translation
+22. ~~Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport~~
+23. ~~Generative Modelling With Inverse Heat Dissipation~~
+24. ~~Poisson Flow Generative Models~~
+25. ~~Efficient Diffusion Training via Min-SNR Weighting Strategy~~
+26. ~~PFGM++: Unlocking the Potential of Physics-Inspired Generative Models~~
+27. ~~Blurring Diffusion Models~~
+28. ~~Adding Conditional Control to Text-to-Image Diffusion Models (ControlNet)~~
+29. ~~Training Diffusion Models with Reinforcement Learning~~
+30. ~~Scalable Diffusion Models with Transformers~~
+31. ~~simple diffusion: End-to-end diffusion for high resolution images~~
+32. ~~Wuerstchen: Efficient Pretraining of Text-to-Image Models~~
+33. ~~Palette: Image-to-image diffusion models~~
+34. Reflected Diffusion Models
+35. SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis
+36. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+37. Pyramidal Denoising Diffusion Probabilistic Models
+38. Cascaded Diffusion Models for High Fidelity Image Generation
+39. Image super-resolution via iterative refinement
+40. Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild
+41. I$^2$SB: Image-to-Image Schr\"odinger Bridge
+42. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+43. Hierarchical Text-Conditional Image Generation with CLIP Latents
+44. Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+45. eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers
+46. Semi-Parametric Neural Image Synthesis
+47. On the Importance of Noise Scheduling for Diffusion Models
+48. Pseudo Numerical Methods for Diffusion Models on Manifolds
+49. DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Step
+50. DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models
+51. GENIE: Higher-Order Denoising Diffusion Solvers
+52. Journey to the BAOAB-limit: ﬁnding effective MCMC samplers for score-based models
+53. Riemannian Score-Based Generative Modeling
+54. DiffWave: A Versatile Diffusion Model for Audio Synthesis
+55. Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech
+56. Video diffusion models
+57. MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+58. Imagen Video: High Definition Video Generation with Diffusion Models
+59. Make-A-Video: Text-to-Video Generation without Text-Video Data
+60. DreamFusion: Text-to-3D using 2D Diffusion
+61. Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation
+62. Magic3D: High-Resolution Text-to-3D Content Creation
+63. Diffusion-LM Improves Controllable Text Generation.
+64. Autoregressive Diffusion Models
+65. Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning
+66. Continuous diffusion for categorical data
+67. DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models
+68. Vector quantized diffusion model for text-to-image synthesis
+69. Improved Vector Quantized Diffusion Models
+70. DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder
+71. Diffusion Models already have a Semantic Latent Space
+72. Understanding ddpm latent codes through optimal transport
+73. Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling
+74. Dual Diffusion Implicit Bridges for Image-to-Image Translation
+75. Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance
+76. Zero-shot Image-to-Image Translation
